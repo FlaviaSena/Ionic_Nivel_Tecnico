@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
+
 @Component({
   selector: 'app-resultado',
   templateUrl: './resultado.page.html',
@@ -36,3 +37,4 @@ export class ResultadoPage implements OnInit {
   
 
 }
+
